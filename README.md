@@ -1,5 +1,4 @@
-# deep-learning-fundamentals
-# Deep Learning Multi-Class Classification Blueprint (PyTorch)
+# Deep Learning Fundamentals
 
 An end-to-end implementation of a Multi-Layer Perceptron (MLP) built from scratch using **PyTorch** to classify species within the classic **Iris Dataset**. This project documents structural data scaling, floating-point tensor generation, manual model topology wiring, and the explicit five-step optimization backpropagation training loop.
 
