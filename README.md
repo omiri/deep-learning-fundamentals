@@ -7,9 +7,6 @@ An end-to-end implementation of a Multi-Layer Perceptron (MLP) built from scratc
 ```text
 Deep_Learning_Assignment/
 │
-├── data/
-│   └── iris.data                      # Local backup of raw physical metrics
-│
 ├── notebooks/
 │   └── Deep_Learning_Notebook.ipynb    # Executed notebook containing source pipeline
 │
